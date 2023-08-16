@@ -1,6 +1,6 @@
 # mmdetection fork supporting multi-head SOLOv2 model
 
-The original mmdetection README.md can be found [here]([README.md).
+The original mmdetection README.md can be found [here](README.md).
 
 This repository implements the approach described in the following paper based on mmdetection v2:
 
